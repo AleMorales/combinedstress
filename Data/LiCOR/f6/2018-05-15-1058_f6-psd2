@@ -1,0 +1,17 @@
+[Header]
+File opened	2018-05-15 10:59:03
+Console s/n	68C-831456
+Console ver	Bluestem v.1.2.2
+Scripts ver	2017.12  1.2.1, Oct 2017
+Head s/n	68H-581456
+Head ver	1.1.6
+Head cal	{"co2bspan2b": "0.278932", "h2obspan2": "0", "h2oaspan2": "0", "co2aspanconc2": "296.4", "flowazero": "0.52219", "h2obspanconc1": "12.22", "ssa_ref": "29111.2", "h2oaspan2a": "0.0694845", "co2bspan2a": "0.281541", "co2aspan2a": "0.279435", "co2bspan2": "-0.0328488", "co2bspanconc2": "296.4", "flowbzero": "0.31309", "co2bzero": "0.895522", "co2bspan1": "0.999983", "co2aspan2b": "0.276872", "ssb_ref": "28780.4", "flowmeterzero": "0.992045", "co2bspanconc1": "2500", "h2oaspan1": "1.00743", "h2obspan2b": "0.0704031", "h2obzero": "0.94181", "h2oaspanconc2": "0", "co2azero": "0.962343", "tbzero": "0.150642", "oxygen": "21", "h2oaspan2b": "0.0700005", "co2aspan1": "0.999703", "h2obspan2a": "0.0695901", "chamberpressurezero": "2.48433", "h2obspanconc2": "0", "h2obspan1": "1.01168", "co2aspanconc1": "2500", "co2aspan2": "-0.031756", "tazero": "0.0623951", "h2oazero": "0.945867", "h2oaspanconc1": "12.22"}
+Chamber type	6800-12A
+Chamber s/n	CHM-10353
+Chamber rev	0
+Chamber cal	8.02
+HeadLS type	6800-02
+HeadLS s/n	561173
+HeadLS f	0.0472 0.0693
+HeadLS u0	572 1334
+10:59:03	Stability Definition: H2O_d.Meas2:Slp<0.5	CO2_d.Meas2:Slp<0.1

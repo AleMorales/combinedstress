@@ -1,0 +1,39 @@
+Chemicals:
+
+In the morning, when performing measurements at 27 C, make sure to add 10 mL distilled water to the H2O and use fresh drierite as otherwise the system cannot
+achieve the 65% RH at high temperatures. If you see standing water in the H2O tube, empty on paper towels and let the towels get soaked. This is less important
+for measurements at 21 C (though you should always change drierite if it is pink). Note that you can choose to empty only half of the drierite bottle.
+
+If the warm-up test fails to reach CO2 zero (after 30 mins running the machine), then add 5 - 10 mL distilled water to the CO2 scrub tube. Shake well. Same procedure as before if you see standing water.
+
+
+Settings for starting measurements:
+
+Flow of 500
+Fan speed of 10,000 rpm
+Press valve 0.1 kPa
+Tleaf = 21 C or 27 C
+RH_air = 65%
+Qin = 25 umol/m2/s with 90% red/ 10% blue (default)
+
+Always Check Match options as we need to turn on match every day (the "if" option)
+
+Protocols:
+
+1. When the leaf is in steady-state under initial conditions (gsw always the slowest) start the light response curve. The default settings should be ok as the are the same as in the previous run
+
+2. After 45 mins (max) the light response curve should have finished. You still need to wait for 15 - 20 mins for the stomata to fully open (check visually that the gs signal levels off)
+
+3. Once gs is in steady-state, run the CO2 response curve. Again, the default settings should be ok as they are inherited from the previous measurement. This should be 30 mins (max) 
+
+Changing from 27 to 21:
+
+This is relevant for the C2 and HT treatments that are measured at both temperatures:
+
+Be very careful if decreasing tempreature (27 -> 21):
+	Do it in steps and temporarily increase sd_air target to avoid condensation
+	You can see a red line in the temperate graphs indicating temperature at which saturation happens (and then risk of condensation)
+	Always keep 3 degrees above the red line
+
+After a leaf has been measured, the same leaf cannot be measured inmediately. You need to wait for at least 45 mins in low light. Thus, it is best to put that plant aside and measure
+another plant in between.
